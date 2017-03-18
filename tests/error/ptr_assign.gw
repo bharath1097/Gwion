@@ -1,0 +1,4 @@
+// [contains] can't assign function pointer to function pointer for the moment. sorry.
+ typedef void (test0)();
+typedef void (test1)();
+test0 @=> test1;

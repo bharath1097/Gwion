@@ -1,0 +1,6 @@
+union
+{
+	int i;
+	Object o;
+
+};
